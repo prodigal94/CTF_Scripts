@@ -1,0 +1,10 @@
+{
+    "525400": "QEMU/KVM",
+    "000C29": "VMware",
+    "000569": "VMware",
+    "005056": "VMware",
+    "080027": "VirtualBox",
+    "00155D": "Microsoft Hyper-V",
+    "00163E": "Xen",
+    "001C42": "Parallels"
+}
